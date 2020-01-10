@@ -1,0 +1,6 @@
+[ScriptFile]
+Path=C:\users\user\Desktop\test.vbs
+[Options]
+Timeout=0
+DisplayLogo=1
+BatchMode=0
